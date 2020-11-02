@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">CoffeeCheck</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+
+    <string name="app_name">КофеёCheck</string>
+    <string name="tab_text_1">Карта</string> <!--gray-->
+    <string name="tab_text_2">Список</string> <!--gray-->
+
 </resources>

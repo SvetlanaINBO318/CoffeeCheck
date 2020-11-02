@@ -1,5 +1,7 @@
 package com.example.coffeecheck
 
+import android.graphics.Color.*
+import android.hardware.camera2.params.BlackLevelPattern
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
